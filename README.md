@@ -1,3 +1,3 @@
 This repository contains examples of processing dates and times with Iguana.
 
-http://help.interfaceware.com/category/building-interfaces/repositories/builtin-iguana-datetime
+See: http://help.interfaceware.com/category/building-interfaces/repositories/builtin-iguana-datetime
